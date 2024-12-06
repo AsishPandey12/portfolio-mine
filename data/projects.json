@@ -1,0 +1,52 @@
+[
+  {
+    "thumbnail": "/Movie_Munch.png",
+    "title": "🎥Movie Munch",
+    "link": {
+      "label": "Moviemunch.com",
+      "url": "https://www.example.com"
+    },
+    "description": "Developed a web application named Movie Munch whose features include an extensive movie database, personalized watchlist management and detailed movie information",
+    "languageIcons": [
+      "/html_icon.png",
+      "/css_icon.png",
+      "js_icon.png",
+      "/react_icon.png"
+    ]
+  },
+  {
+    "thumbnail": "/weather.png",
+    "title": "☁️Weather app",
+    "link": {
+      "label": "ClassyWeather.com",
+      "url": "https://www.example.com"
+    },
+    "description": "Classy Weather is a sleek and user-friendly weather application that provides real-time weather updates for any location.",
+    "languageIcons": [
+      "/html_icon.png",
+      "/css_icon.png",
+      "js_icon.png",
+      "/react_icon.png"
+    ]
+  },
+  {
+    "thumbnail": "/Guess-my-number.png",
+    "title": "🔢Guess-My-Number",
+    "link": {
+      "label": "Guess Number",
+      "url": "https://www.example.com"
+    },
+    "description": "It's an entertaining game where the user guesses a random number. If the guess is correct, they win; otherwise, the game provides hints and instructions to help them find the right answer.",
+    "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
+  },
+  {
+    "thumbnail": "/Pig_game.png",
+    "title": "🎲Dice Roll",
+    "link": {
+      "label": "Dice-Game.com",
+      "url": "https://www.example.com"
+    },
+    "description": "The Dice Roll is a fun, interactive two-player dice game where players take turns rolling a die to accumulate points. ",
+    "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
+  }
+]
